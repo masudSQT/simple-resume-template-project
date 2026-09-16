@@ -1,18 +1,46 @@
-# 💼 Simple Resume Template (HTML)
+# 📄 Simple Resume Template
 
-This is a **simple HTML-based Resume Template** built using basic web technologies.  
-It provides a clean, minimal design for creating and sharing your professional resume online.
+A clean and simple resume/CV template designed using frontend
+web technologies.
 
-## 🚀 Features
+## 📌 About
 
-✅ Fully responsive HTML layout  
-✅ Easy to customize with your own details  
-✅ Includes profile picture and contact information  
-✅ Simple and elegant design — perfect for beginners  
-✅ Can be hosted on GitHub Pages or any web server  
+This project provides a basic structure for creating a personal
+resume or CV in a web-based format.
 
-## 💻 Technologies Used
+## ✨ Features
 
-- HTML5  
-- CSS3 (inline or embedded styles)  
-- Basic image embedding  
+- 👤 Personal information section
+- 🎓 Education section
+- 💼 Experience section
+- 🛠️ Skills section
+- 📂 Projects section
+- 📞 Contact information
+- 🎨 Clean layout
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 🎯 Purpose
+
+This project was created to practice:
+
+- HTML structure
+- CSS styling
+- Layout design
+- Responsive design
+- Personal portfolio development
+
+## 🚀 Usage
+
+Download or clone the repository and customize the HTML content
+with your own information.
+
+## 👨‍💻 Author
+
+**Md. Masud**
+
+GitHub: https://github.com/masudSQT
